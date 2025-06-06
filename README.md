@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @godlovesmei
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/Them
+- 👋 Hi, I’m @godlovesmei  
+- 👀 I’m interested in art and music  
+- 🌱 I’m currently learning web development  
+- 💞️ I’m looking to collaborate on creative coding & UI projects  
+- 📫 How to reach me: [@meiskeshrtn_](https://instagram.com/meiskeshrtn_)  
+- 😄 Pronouns: She/They  
 - ⚡ Fun fact: I love cats..
 
 <!---
