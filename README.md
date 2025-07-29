@@ -4,9 +4,5 @@
 - 💞️ I’m looking to collaborate on creative coding & UI projects  
 - 📫 How to reach me: [@meiskeshrtn_](https://instagram.com/meiskeshrtn_)  
 - 😄 Pronouns: She/They  
-- ⚡ Fun fact: I love cats..
-
-<!---
-godlovesmei/godlovesmei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I love cats  
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" />
