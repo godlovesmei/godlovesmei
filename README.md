@@ -1,4 +1,4 @@
-<img src="./assets/profile-hero.svg" alt="Meiske Sahertian - AI and Software Engineering" width="100%" />
+<img src="./assets/profile-hero-v2.svg" alt="Meiske Sahertian - AI and Software Engineering" width="100%" />
 
 <h1 align="center">Hi, I'm Meiske Sahertian</h1>
 
@@ -74,8 +74,7 @@ Outside of class, I like experimenting with product ideas, following science and
 ### GitHub snapshot
 
 <p align="center">
-  <img height="165" alt="Meiske's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=godlovesmei&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godlovesmei&layout=compact&theme=github_dark&hide_border=true" />
+  <img alt="Profile snapshot" src="./assets/profile-snapshot.svg" width="100%" />
 </p>
 
 ### Let's build something meaningful
