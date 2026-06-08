@@ -1,34 +1,17 @@
 <img src="./assets/profile-hero-v2.svg" alt="Meiske Sahertian - AI and Software Engineering" width="100%" />
 
-<h1 align="center">Hi, I'm Meiske Sahertian</h1>
-
-<p align="center">
-  Informatics student at Batam State Polytechnic, exploring artificial intelligence, software engineering, and product-minded systems.
-</p>
-
-<p align="center">
-  <kbd>AI Systems</kbd>
-  <kbd>Full-stack Products</kbd>
-  <kbd>Clean Interfaces</kbd>
-  <kbd>Scalable Thinking</kbd>
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/meiskesahertian/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/meiskeshrtn_">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
 
 ### About me
 
-I care about building software that feels useful, reliable, and thoughtful. My main interest sits at the intersection of AI and software engineering: turning ideas into working systems, learning how scalable products are designed, and making small technical decisions with long-term impact.
-
-Outside of class, I like experimenting with product ideas, following science and technology trends, and sharpening the way I think about real-world problems.
+Informatics student focused on AI systems, software engineering, and product-minded development. I like turning ideas into useful products with clear data flow, reliable behavior, and clean interfaces.
 
 <details>
   <summary><strong>How I think about building software</strong></summary>
